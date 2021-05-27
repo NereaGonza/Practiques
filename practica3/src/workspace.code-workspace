@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\..\\..\\xampp_2\\htdocs\\bd_exemples"
+		},
+		{
+			"name": "practica1",
+			"path": "..\\..\\practica1"
+		},
+		{
+			"name": "practica2",
+			"path": "..\\..\\practica2"
+		},
+		{
+			"name": "Practica2B",
+			"path": "..\\..\\Practica2B"
+		},
+		{
+			"name": "practica2A",
+			"path": "..\\..\\practica2A"
+		},
+		{
+			"name": "practica3",
+			"path": ".."
+		},
+		{
+			"name": "practica3B",
+			"path": "..\\..\\practica3B"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"type_traits": "cpp"
+		}
+	}
+}
